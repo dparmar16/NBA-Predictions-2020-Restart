@@ -4,5 +4,3 @@
 # Do not commit Old folder
 Old/
 
-# Do not commit gitignore
-.gitignore
