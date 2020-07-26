@@ -1,2 +1,8 @@
 # Do not commit ipynb checkpoints
 .ipynb_checkpoints/
+
+# Do not commit Old folder
+Old/
+
+# Do not commit gitignore
+.gitignore
