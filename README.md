@@ -15,7 +15,7 @@ Before I show the results, let's go through assumptions that I made, as well as 
 
 - I did not modify team elo values with home court advantage. This is because we do not yet know how this will affect teams in this fan-less setup.
 - For each team, I look their game-result based elo value (how the team has played to this point) as well as FiveThirtyEight's full strength elo (based on player advanced statistics). *To obtain each team's  "starting" elo for this restart, I weighted their game result and full strength elo's (50 percent weight on each). One could change that weighting, or even change elo values all together.*
-- Once the teams start the regular season, they will have elo changes with game results. <em>For the start of the playoffs, I weighted their regular season starting and ending elo's (50 percent weight on each). The logic is that we want to regress teams to their true mean, and we don't want to give too much credit to an 8 game hot streak. *
+- Once the teams start the regular season, they will have elo changes with game results. <em>For the start of the playoffs, I weighted their regular season starting and ending elo's (50 percent weight on each). The logic is that we want to regress teams to their true mean, and we don't want to give too much credit to an 8 game hot streak.
 - For the playoffs, *I did not update team elo values within a given playoff round*, waiting until after they won to give a new value. This was ensure, for example, a team that went up 2-0 did not get such an elo boost that the other team had a slim chance to come back and win.
 
 
