@@ -1,5 +1,5 @@
 # NBA-Predictions-2020-Restart
-With the NBA season getting underway in the Orlando bubble, I decided to simulate the rest of the regular  is season along with the playoffs.
+With the NBA season getting underway in the Orlando bubble, I decided to simulate the rest of the regular season along with the playoffs.
 
 ## Behind the Idea
 
