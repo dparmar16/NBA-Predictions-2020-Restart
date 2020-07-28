@@ -27,7 +27,7 @@ Some insights from these simulations:
 
 - The championships won passes the eye test. Milwaukee, the Lakers, and the Clippers are at the top, followed by frisky Boston and Toronto.
 - The Lakers get to the second playoff round nearly 94 percentage of the time, meaning that the models don't give a lot of credence to the teams competing for the 8th seed in the Western Conference. On the other hand, the Clippers only reach the second round 88 percentage of the time, which is due to the stronger quality of teams, such as a dangerous Dallas team, which could end up as the 7th seed.
-- The model likes Houston. They make the Western Conference Finals more often than Denver and Utah, two team they are likely to be seeded behind. This is due to the high "full strength" elo that FiveThirtyEight gives them.
+- The model likes Houston. They make the Western Conference Finals more often than Denver and Utah, two teams they are likely to be seeded behind. This is due to the high "full strength" elo that FiveThirtyEight gives them.
 - Although Milwaukee has been an unstoppable force this season, the model sees them making the NBA Finals less than 50 percent of the time. Elo really likes both Toronto and Boston, and each of them make the finals in about 20 percent of simulations.
 - Although Miami has played well this season, elo doesn't like them very much. They don't win a championship in a single simulation, while non-contender Orlando does.
 
